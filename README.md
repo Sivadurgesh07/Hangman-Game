@@ -2,7 +2,7 @@
 
 A classic Hangman word-guessing game built with Python and Tkinter, featuring a retro terminal-style GUI with vibrant colors and smooth animations.
 
-![Hangman Game Screenshot](Screenshot%202025-11-28%20at%2011.08.09%20AM.png)
+![Hangman Game Screenshot](screenshot.png)
 
 ## ✨ Features
 
